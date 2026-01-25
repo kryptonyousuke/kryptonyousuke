@@ -7,7 +7,7 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 
 ### 🚀 Key Projects
 
-* Aether Architecture: A project that define how programmers should pick their programming languages, frameworks and APIs based in this phrase: "fast as needed, heavy when possible".
+* Aether Nexus: A project that define how programmers should pick their programming languages, frameworks and APIs based in this phrase: "fast as needed, heavy when possible".
 * **[AniHub](https://github.com/kryptonyousuke/anihub)**: The ultimate hub for anime watchers + manga readers, built with Electron and focused on being modular, reliable and modern.
 
 ---
