@@ -21,6 +21,7 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC171A?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4784AF?style=for-the-badge&logo=docker&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed-industries&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
