@@ -1,4 +1,4 @@
-# I tame hell until it compiles.
+# Krypton Yousuke tames hell until it compiles.
 
 ### 🛠️ Software Developer & Graphics Enthusiast
 I am a developer focused on low-level graphics and building fluid, high-performance desktop interfaces. Currently, I'm dedicated to optimizing rendering engines and expanding the **AniHub** ecosystem.
