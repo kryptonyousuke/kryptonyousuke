@@ -41,4 +41,4 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID-HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kryptonyousuke)
 
-> "Fast as needed, heavy when possible." 🌌
+> "Being the best isn't arrogance. It's accurracy."
