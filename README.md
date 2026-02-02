@@ -1,11 +1,11 @@
-# Hi there, I'm Krypton Yousuke! 👋
+# I tame hell until it compiles.
 
 ### 🛠️ Software Developer & Graphics Enthusiast
 I am a developer focused on low-level graphics and building fluid, high-performance desktop interfaces. Currently, I'm dedicated to optimizing rendering engines and expanding the **AniHub** ecosystem.
 
 ---
 
-### 🚀 Key Projects
+### 📜 Key Projects
 
 * Aether Nexus: A project that define how programmers should pick their programming languages, frameworks and APIs based in this phrase: "fast as needed, heavy when possible".
 * **[AniHub](https://github.com/kryptonyousuke/anihub)**: The ultimate hub for anime watchers + manga readers, built with Electron and focused on being modular, reliable and modern.
