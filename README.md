@@ -28,11 +28,13 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=kryptonyousuke&theme=github_dark"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&theme=github_dark"/>
+</div>
 
 ---
 
