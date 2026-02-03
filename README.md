@@ -7,8 +7,14 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 
 ### 📜 Key Projects
 
-* Aether Nexus: A project that define how programmers should pick their programming languages, frameworks and APIs based in this phrase: "fast as needed, heavy when possible".
-* **[AniHub](https://github.com/kryptonyousuke/anihub)**: The ultimate hub for anime watchers + manga readers, built with Electron and focused on being modular, reliable and modern.
+<div align="center">
+  <a href="https://github.com/kryptonyousuke/AniHub">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=AniHub&theme=aura&show_owner=true" width="45%"/>
+  </a>
+  <a href="https://github.com/kryptonyousuke/Vulkan-Playground">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Vulkan-Playground&theme=aura&show_owner=true" width="45%"/>
+  </a>
+</div>
 
 ---
 
