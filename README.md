@@ -32,13 +32,15 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-trophy-fork-two.vercel.app/?username=kryptonyousuke&theme=aura&no-frame=true&margin-w=10"/>
+  
 </div>
 
 ---
 
 ### 📫 Connect with me
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID-ID-HERE)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9695-8899)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kryptonyousuke)
 
 > "Being the best isn't arrogance. It's accurracy."
