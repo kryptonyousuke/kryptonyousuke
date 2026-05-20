@@ -1,5 +1,3 @@
-# Krypton Yousuke tames hell until it compiles.
-
 ### 🛠️ Software Developer & Graphics Enthusiast
 I am a developer focused on low-level graphics and building fluid, high-performance desktop interfaces. Currently, I'm dedicated to optimizing rendering engines and expanding the **AniHub** ecosystem.
 
@@ -38,7 +36,7 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-trophy-kannan.vercel.app/?username=kryptonyousuke&theme=aura&margin-w=5&column=-1&no-bg=true&no-frame=true&rank=-C,-?"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=kryptonyousuke&theme=aura&margin-w=5&column=-1&no-bg=true&no-frame=true&rank=-C,-?"/>
   
 </div>
 
