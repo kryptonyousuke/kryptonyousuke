@@ -9,7 +9,7 @@ I am a developer focused on low-level graphics and building fluid, high-performa
   <a href="https://github.com/kryptonyousuke/AniHub">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=AniHub&theme=aura&show_owner=true" width="45%"/>
   </a>
-  <a href="https://github.com/kryptonyousuke/Vulkan-Playground">
+  <a href="https://github.com/kryptonyousuke/Aura">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Aura&theme=aura&show_owner=true" width="45%"/>
   </a>
 </div>
