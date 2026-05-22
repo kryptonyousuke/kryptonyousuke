@@ -1,44 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%">
-    <defs>
-      <linearGradient id="auraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#7b2ff7" />
-        <stop offset="50%" stop-color="#f107a3" />
-        <stop offset="100%" stop-color="#2f80ed" />
-      </linearGradient>
-      <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="5" result="blur" />
-        <feMerge>
-          <feMergeNode in="blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-      <pattern id="hudGrid" width="30" height="30" patternUnits="userSpaceOnUse">
-        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.03" />
-      </pattern>
-    </defs>
-    <rect x="10" y="10" width="980" height="240" rx="12" fill="#0d1117" stroke="#1f2937" stroke-width="1" />
-    <rect x="12" y="12" width="976" height="236" rx="11" fill="url(#hudGrid)" />
-    <path d="M 10 50 L 10 22 C 10 15, 15 10, 22 10 L 120 10 L 140 30 L 40 30 L 20 50 Z" fill="url(#auraGrad)" opacity="0.12" />
-    <path d="M 10 70 L 10 25 L 25 10 L 220 10" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round" />
-    <path d="M 990 200 L 990 238 C 990 245, 985 250, 978 250 L 880 250 L 860 230 L 960 230 L 980 210 Z" fill="url(#auraGrad)" opacity="0.12" />
-    <path d="M 990 190 L 990 235 L 975 250 L 780 250" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round" />
-    <line x1="40" y1="75" x2="960" y2="75" stroke="#232d3d" stroke-width="1" stroke-dasharray="4,8" />
-    <line x1="40" y1="185" x2="960" y2="185" stroke="#232d3d" stroke-width="1" stroke-dasharray="4,8" />
-    <path d="M 45 75 L 65 95 L 140 95" fill="none" stroke="#7b2ff7" stroke-width="2" opacity="0.6" />
-    <circle cx="140" cy="95" r="3" fill="#7b2ff7" filter="url(#neonGlow)" />
-    <path d="M 955 185 L 935 165 L 840 165" fill="none" stroke="#2f80ed" stroke-width="2" opacity="0.6" />
-    <circle cx="840" cy="165" r="3" fill="#2f80ed" filter="url(#neonGlow)" />
-    <path d="M 25 35 L 35 35 M 35 25 L 35 35" fill="none" stroke="#f107a3" stroke-width="1.5" opacity="0.6" />
-    <path d="M 975 225 L 965 225 M 965 235 L 965 225" fill="none" stroke="#2f80ed" stroke-width="1.5" opacity="0.6" />
-    <text x="50" y="142" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="5">KRYPTON</text>
-    <rect x="335" y="106" width="225" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="345" y="122" fill="url(#auraGrad)" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1">GRAPHICS &amp; DESKTOP DEV</text>
-    <text x="52" y="174" fill="#8b949e" font-family="monospace" font-size="11" letter-spacing="0.5">
-      STATUS: <tspan fill="#56d364" font-weight="bold">ACTIVE</tspan> // SYS: <tspan fill="#1793D1">ARCH_LINUX</tspan> // CORE: <tspan fill="#ff7b72">C++ / RUST</tspan> // IDE: ZED // RENDERING: FLUID_HIGH_PERF
-    </text>
-    <g font-family="monospace" font-size="11" text-anchor="end" opacity="0.9">
-      <text x="940" y="115" fill="#8b949e">ECOSYSTEM: <tspan fill="#f107a3">ANIHUB // AURA</tspan></text>
-      <text x="940" y="135" fill="#8b949e">GRAPHICS_API: <tspan fill="#ffffff">VULKAN_NATIVE</tspan></text>
-      <text x="940" y="155" fill="#2f80ed" font-weight="bold">"ACCURACY IS NOT ARROGANCE"</text>
-    </g>
-  </svg>
+  <defs>
+    <linearGradient id="auraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7b2ff7" />
+      <stop offset="50%" stop-color="#f107a3" />
+      <stop offset="100%" stop-color="#2f80ed" />
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="hudGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.03" />
+    </pattern>
+  </defs>
+  <rect x="10" y="10" width="980" height="240" rx="12" fill="#0d1117" stroke="#1f2937" stroke-width="1" />
+  <rect x="12" y="12" width="976" height="236" rx="11" fill="url(#hudGrid)" />
+  <path d="M 10 50 L 10 22 C 10 15, 15 10, 22 10 L 120 10 L 140 30 L 40 30 L 20 50 Z" fill="url(#auraGrad)" opacity="0.12" />
+  <path d="M 10 70 L 10 25 L 25 10 L 220 10" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round" />
+  <path d="M 990 200 L 990 238 C 990 245, 985 250, 978 250 L 880 250 L 860 230 L 960 230 L 980 210 Z" fill="url(#auraGrad)" opacity="0.12" />
+  <path d="M 990 190 L 990 235 L 975 250 L 780 250" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round" />
+  <line x1="40" y1="75" x2="960" y2="75" stroke="#232d3d" stroke-width="1" stroke-dasharray="4,8" />
+  <line x1="40" y1="185" x2="960" y2="185" stroke="#232d3d" stroke-width="1" stroke-dasharray="4,8" />
+  <path d="M 45 75 L 65 95 L 140 95" fill="none" stroke="#7b2ff7" stroke-width="2" opacity="0.6" />
+  <circle cx="140" cy="95" r="3" fill="#7b2ff7" filter="url(#neonGlow)" />
+  <path d="M 955 185 L 935 165 L 840 165" fill="none" stroke="#2f80ed" stroke-width="2" opacity="0.6" />
+  <circle cx="840" cy="165" r="3" fill="#2f80ed" filter="url(#neonGlow)" />
+  <path d="M 25 35 L 35 35 M 35 25 L 35 35" fill="none" stroke="#f107a3" stroke-width="1.5" opacity="0.6" />
+  <path d="M 975 225 L 965 225 M 965 235 L 965 225" fill="none" stroke="#2f80ed" stroke-width="1.5" opacity="0.6" />
+  <text x="50" y="142" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="5">KRYPTON</text>
+  <rect x="335" y="106" width="225" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
+  <text x="345" y="122" fill="url(#auraGrad)" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1">GRAPHICS &amp; DESKTOP DEV</text>
+  <text x="52" y="174" fill="#8b949e" font-family="monospace" font-size="11" letter-spacing="0.5">
+    STATUS: <tspan fill="#56d364" font-weight="bold">ACTIVE</tspan> // SYS: <tspan fill="#1793D1">ARCH_LINUX</tspan> // CORE: <tspan fill="#ff7b72">C++ / RUST</tspan> // IDE: ZED // RENDERING: FLUID_HIGH_PERF
+  </text>
+  <g font-family="monospace" font-size="11" text-anchor="end" opacity="0.9">
+    <text x="940" y="115" fill="#8b949e">ECOSYSTEM: <tspan fill="#f107a3">ANIHUB // AURA</tspan></text>
+    <text x="940" y="135" fill="#8b949e">GRAPHICS_API: <tspan fill="#ffffff">VULKAN_NATIVE</tspan></text>
+    <text x="940" y="155" fill="#2f80ed" font-weight="bold">"ACCURACY IS NOT ARROGANCE"</text>
+  </g>
+</svg>
