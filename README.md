@@ -1,3 +1,8 @@
+<a href="https://github.com/sponsors/kryptonyousuke">
+  <img src="krypton-header.svg" />
+</a>
+
+
 ### 🛠️ Software Developer & Graphics Enthusiast
 I am a developer focused on low-level graphics and building fluid, high-performance desktop interfaces. Currently, I'm dedicated to optimizing rendering engines and expanding the **AniHub** ecosystem.
 
