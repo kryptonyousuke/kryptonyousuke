@@ -52,6 +52,6 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9695-8899)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kryptonyousuke)
 
-<img src="itoshisae2.gif" width="100%"/>
+<img src="new-itoshi-sae-2.gif" width="100%"/>
 
-> "Being the best isn't arrogance. It's accurracy."
+> "Geniuses aren't born. They're forged through obsession."
