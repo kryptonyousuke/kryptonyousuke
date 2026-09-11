@@ -1,1 +1,191 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%"><defs><linearGradient id="auraGrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7b2ff7"><animate attributeName="stop-color" values="#7b2ff7;#2f80ed;#f107a3;#7b2ff7" dur="6s" repeatCount="indefinite"/></stop><stop offset="50%" stop-color="#f107a3"><animate attributeName="stop-color" values="#f107a3;#7b2ff7;#2f80ed;#f107a3" dur="6s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#2f80ed"><animate attributeName="stop-color" values="#2f80ed;#f107a3;#7b2ff7;#2f80ed" dur="6s" repeatCount="indefinite"/></stop></linearGradient><filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="hudGrid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" opacity=".03"/></pattern><style>@keyframes e{0%{clip-path:polygon(50% -50%,50% -50%,50% 150%,50% 150%)}100%{clip-path:polygon(-20% -50%,120% -50%,120% 150%,-20% 150%)}}.expand-wrapper{animation:e 2.5s cubic-bezier(.1,.8,.2,1) forwards}@keyframes dl{from{stroke-dashoffset:350}to{stroke-dashoffset:0}}@keyframes fi{from{opacity:0}to{opacity:.12}}@keyframes su{from{transform:translateY(15px);opacity:0}to{transform:translateY(0);opacity:1}}@keyframes pi{from{transform:scale(0);opacity:0}to{transform:scale(1);opacity:1}}@keyframes m{from{stroke-dashoffset:24}to{stroke-dashoffset:0}}@keyframes pn{0%,100%{transform:scale(1);opacity:.8}50%{transform:scale(1.6);opacity:1;filter:brightness(1.5)}}@keyframes br{0%,100%{opacity:.6}50%{opacity:1}}@keyframes bl{0%,100%{opacity:1}50%{opacity:0}}.glowing-path{stroke-dasharray:350;stroke-dashoffset:350;animation:dl 2.5s cubic-bezier(.1,.8,.2,1) forwards}.aura-fill{opacity:0;animation:fi 2s ease-in-out 1.5s forwards}.data-line{animation:m 2.5s linear infinite}.data-path{stroke-dasharray:100;stroke-dashoffset:100;animation:dl 1s ease-out 1.8s forwards}.node{transform-box:fill-box;transform-origin:center;opacity:0;animation:pi .5s cubic-bezier(.17,.89,.32,1.49) 2.2s forwards,pn 2s ease-in-out 2.7s infinite}.node-delay{animation-delay:2.4s,2.9s}.corner-mark{animation:br 3s ease-in-out infinite}.grid-layer{animation:br 4s ease-in-out infinite}.t1{opacity:0;animation:su .8s ease-out 1.2s forwards}.t2{opacity:0;animation:su .8s ease-out 1.4s forwards}.t3{opacity:0;animation:su .8s ease-out 1.6s forwards}.t4{opacity:0;animation:su .8s ease-out 1.8s forwards}.t5{opacity:0;animation:su .8s ease-out 2s forwards}.t6{opacity:0;animation:su .8s ease-out 2.2s forwards}.status-active{animation:br 1.5s ease-in-out infinite}.cursor-blink{animation:bl 1s step-end infinite}</style></defs><g class="expand-wrapper"><rect x="10" y="10" width="980" height="240" rx="12" fill="#0d1117" stroke="#1f2937"/><rect class="grid-layer" x="12" y="12" width="976" height="236" rx="11" fill="url(#hudGrid)"/><path class="aura-fill" d="M10 50V22C10 15 15 10 22 10H120L140 30H40L20 50Z" fill="url(#auraGrad)"/><path class="aura-fill" d="M990 200V238C990 245 985 250 978 250H880L860 230H960L980 210Z" fill="url(#auraGrad)"/><path class="glowing-path" d="M10 70V25L25 10H220" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round"/><path class="glowing-path" d="M990 190V235L975 250H780" fill="none" stroke="url(#auraGrad)" stroke-width="3" filter="url(#neonGlow)" stroke-linecap="round"/><line class="data-line" x1="40" y1="75" x2="960" y2="75" stroke="#232d3d" stroke-dasharray="4,8"/><line class="data-line" x1="40" y1="185" x2="960" y2="185" stroke="#232d3d" stroke-dasharray="4,8"/><path class="data-path" d="M45 75L65 95H140" fill="none" stroke="#7b2ff7" stroke-width="2" opacity=".6"/><circle class="node" cx="140" cy="95" r="3" fill="#7b2ff7" filter="url(#neonGlow)"/><path class="data-path" d="M955 185L935 165H840" fill="none" stroke="#2f80ed" stroke-width="2" opacity=".6"/><circle class="node node-delay" cx="840" cy="165" r="3" fill="#2f80ed" filter="url(#neonGlow)"/><path class="corner-mark" d="M25 35H35M35 25V35" fill="none" stroke="#f107a3" stroke-width="1.5" opacity=".6"/><path class="corner-mark" d="M975 225H965M965 235V225" fill="none" stroke="#2f80ed" stroke-width="1.5" opacity=".6"/><text class="t1" x="50" y="142" fill="#fff" font-family="system-ui,-apple-system,sans-serif" font-size="52" font-weight="900" letter-spacing="5">KRYPTON</text><g class="t2"><rect x="335" y="106" width="225" height="24" rx="4" fill="#161b22" stroke="#30363d"/><text x="345" y="122" fill="url(#auraGrad)" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1">GRAPHICS &amp; DESKTOP DEV</text></g><text class="t3" x="52" y="174" fill="#8b949e" font-family="monospace" font-size="11" letter-spacing=".5">STATUS: <tspan class="status-active" fill="#56d364" font-weight="bold">ACTIVE</tspan><tspan class="cursor-blink" fill="#56d364">_</tspan> // SYS: <tspan fill="#1793D1">ARCH_LINUX</tspan> // CORE: <tspan fill="#ff7b72">C++ / RUST</tspan> // IDE: ZED // RENDERING: FLUID_HIGH_PERF</text><g font-family="monospace" font-size="11" text-anchor="end" opacity=".9"><text class="t4" x="940" y="115" fill="#8b949e">ECOSYSTEM: <tspan fill="#f107a3">ANIHUB // AURA</tspan></text><text class="t5" x="940" y="135" fill="#8b949e">GRAPHICS_API: <tspan fill="#fff">VULKAN_NATIVE</tspan></text><text class="t6" x="940" y="155" fill="#2f80ed" font-weight="bold">"ACCURACY IS NOT ARROGANCE"</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%" height="100%">
+  <defs>
+    <!-- Dynamic Animated Gradient Spectrum -->
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF">
+        <animate attributeName="stop-color" values="#00F0FF;#7000FF;#FF007A;#00F0FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7000FF">
+        <animate attributeName="stop-color" values="#7000FF;#FF007A;#00F0FF;#7000FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF007A">
+        <animate attributeName="stop-color" values="#FF007A;#00F0FF;#7000FF;#FF007A" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="cyberText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#CBD5E1"/>
+      <stop offset="100%" stop-color="#64748B"/>
+    </linearGradient>
+
+    <linearGradient id="badgeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0, 240, 255, 0.12)"/>
+      <stop offset="100%" stop-color="rgba(112, 0, 255, 0.12)"/>
+    </linearGradient>
+
+    <!-- Post-Processing Glow Filters -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="14" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Tech Grid Patterns -->
+    <pattern id="hudGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 H 0 V 30" fill="none" stroke="#FFFFFF" opacity="0.03"/>
+      <circle cx="30" cy="30" r="1" fill="#FFFFFF" opacity="0.1"/>
+    </pattern>
+
+    <style>
+      @keyframes expand {
+        0% { clip-path: polygon(50% -50%, 50% -50%, 50% 150%, 50% 150%); }
+        100% { clip-path: polygon(-20% -50%, 120% -50%, 120% 150%, -20% 150%); }
+      }
+      .expand-wrapper {
+        animation: expand 2.5s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+      }
+
+      @keyframes drawLine {
+        from { stroke-dashoffset: 400; }
+        to { stroke-dashoffset: 0; }
+      }
+      .glowing-path {
+        stroke-dasharray: 400;
+        stroke-dashoffset: 400;
+        animation: drawLine 2.5s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+      }
+      .data-path {
+        stroke-dasharray: 120;
+        stroke-dashoffset: 120;
+        animation: drawLine 1s ease-out 1.8s forwards;
+      }
+
+      @keyframes dashMove {
+        from { stroke-dashoffset: 24; }
+        to { stroke-dashoffset: 0; }
+      }
+      .data-line {
+        animation: dashMove 2s linear infinite;
+      }
+
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 0.18; }
+      }
+      .aura-fill {
+        opacity: 0;
+        animation: fadeIn 2s ease-in-out 1.5s forwards;
+      }
+
+      @keyframes slideUp {
+        from { transform: translateY(15px); opacity: 0; }
+        to { transform: translateY(0); opacity: 1; }
+      }
+      .t1 { opacity: 0; animation: slideUp 0.8s ease-out 1.2s forwards; }
+      .t2 { opacity: 0; animation: slideUp 0.8s ease-out 1.4s forwards; }
+      .t3 { opacity: 0; animation: slideUp 0.8s ease-out 1.6s forwards; }
+      .t4 { opacity: 0; animation: slideUp 0.8s ease-out 1.8s forwards; }
+      .t5 { opacity: 0; animation: slideUp 0.8s ease-out 2.0s forwards; }
+      .t6 { opacity: 0; animation: slideUp 0.8s ease-out 2.2s forwards; }
+
+      @keyframes popIn {
+        from { transform: scale(0); opacity: 0; }
+        to { transform: scale(1); opacity: 1; }
+      }
+      @keyframes pulseNode {
+        0%, 100% { transform: scale(1); opacity: 0.8; filter: drop-shadow(0 0 2px #00F0FF); }
+        50% { transform: scale(1.6); opacity: 1; filter: drop-shadow(0 0 8px #FF007A); }
+      }
+      .node {
+        transform-box: fill-box;
+        transform-origin: center;
+        opacity: 0;
+        animation: popIn 0.5s cubic-bezier(0.17, 0.89, 0.32, 1.49) 2.2s forwards, pulseNode 2s ease-in-out 2.7s infinite;
+      }
+      .node-delay {
+        animation-delay: 2.4s, 2.9s;
+      }
+
+      @keyframes breathe {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.9; }
+      }
+      .corner-mark { animation: breathe 3s ease-in-out infinite; }
+      .grid-layer { animation: breathe 4s ease-in-out infinite; }
+      .status-active { animation: breathe 1.5s ease-in-out infinite; }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor-blink { animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+
+  <g class="expand-wrapper">
+    <!-- Main Frame -->
+    <rect x="10" y="10" width="980" height="240" rx="14" fill="#060913" stroke="#1E293B" stroke-width="1"/>
+    <rect class="grid-layer" x="12" y="12" width="976" height="236" rx="12" fill="url(#hudGrid)"/>
+
+    <!-- Ambient Gradient Auras -->
+    <path class="aura-fill" d="M10 55 V24 C10 16 16 10 24 10 H130 L155 35 H45 L20 60 Z" fill="url(#neonGrad)"/>
+    <path class="aura-fill" d="M990 205 V236 C990 244 984 250 976 250 H870 L845 225 H955 L980 200 Z" fill="url(#neonGrad)"/>
+
+    <!-- Glowing Edges -->
+    <path class="glowing-path" d="M10 75 V28 L28 10 H240" fill="none" stroke="url(#neonGrad)" stroke-width="2.5" filter="url(#neonGlow)" stroke-linecap="round"/>
+    <path class="glowing-path" d="M990 185 V232 L972 250 H760" fill="none" stroke="url(#neonGrad)" stroke-width="2.5" filter="url(#neonGlow)" stroke-linecap="round"/>
+
+    <!-- Telemetry Lines -->
+    <line class="data-line" x1="40" y1="75" x2="960" y2="75" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" stroke-dasharray="6,8"/>
+    <line class="data-line" x1="40" y1="185" x2="960" y2="185" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" stroke-dasharray="6,8"/>
+
+    <!-- Data Nodes -->
+    <path class="data-path" d="M45 75 L65 95 H150" fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.7"/>
+    <circle class="node" cx="150" cy="95" r="3.5" fill="#00F0FF" filter="url(#softGlow)"/>
+
+    <path class="data-path" d="M955 185 L935 165 H850" fill="none" stroke="#FF007A" stroke-width="1.5" opacity="0.7"/>
+    <circle class="node node-delay" cx="850" cy="165" r="3.5" fill="#FF007A" filter="url(#softGlow)"/>
+
+    <!-- Corner Marks -->
+    <path class="corner-mark" d="M25 35 H35 M35 25 V35" fill="none" stroke="#FF007A" stroke-width="1.5" opacity="0.7"/>
+    <path class="corner-mark" d="M975 225 H965 M965 235 V225" fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.7"/>
+
+    <!-- Main Title: KRYPTON -->
+    <g class="t1">
+      <text x="50" y="142" fill="none" stroke="#7000FF" stroke-width="8" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="5" opacity="0.4" filter="url(#neonGlow)">KRYPTON</text>
+      <text x="50" y="142" fill="url(#cyberText)" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="5">KRYPTON</text>
+      <text x="50" y="142" fill="none" stroke="url(#neonGrad)" stroke-width="1" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="5" opacity="0.8">KRYPTON</text>
+    </g>
+
+    <!-- Subtitle Badge -->
+    <g class="t2">
+      <rect x="335" y="106" width="225" height="24" rx="4" fill="url(#badgeBg)" stroke="rgba(0, 240, 255, 0.3)" stroke-width="1"/>
+      <text x="345" y="122" fill="url(#neonGrad)" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1">GRAPHICS &amp; DESKTOP DEV</text>
+    </g>
+
+    <!-- Status Footer -->
+    <text class="t3" x="52" y="174" fill="#64748B" font-family="monospace" font-size="11" letter-spacing="0.5">
+      STATUS: <tspan class="status-active" fill="#00FF87" font-weight="bold">ACTIVE</tspan><tspan class="cursor-blink" fill="#00FF87">_</tspan> // SYS: <tspan fill="#1793D1">ARCH_LINUX</tspan> // CORE: <tspan fill="#FF5500">C++ / RUST</tspan> // IDE: <tspan fill="#FACC15">ZED</tspan> // RENDERING: <tspan fill="#38BDF8">FLUID_HIGH_PERF</tspan>
+    </text>
+
+    <!-- Right Telemetry -->
+    <g font-family="monospace" font-size="11" text-anchor="end" opacity="0.9">
+      <text class="t4" x="940" y="115" fill="#64748B">ECOSYSTEM: <tspan fill="#FF007A">ANIHUB // AURA</tspan></text>
+      <text class="t5" x="940" y="135" fill="#64748B">GRAPHICS_API: <tspan fill="#FFFFFF">VULKAN_NATIVE</tspan></text>
+      <text class="t6" x="940" y="155" fill="url(#neonGrad)" font-weight="bold">"ACCURACY IS NOT ARROGANCE"</text>
+    </g>
+  </g>
+</svg>
