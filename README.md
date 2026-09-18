@@ -1,5 +1,5 @@
 <a href="https://github.com/sponsors/kryptonyousuke">
-  <img src="krypton-header.svg" />
+  <img src="krypton-header2.svg" />
 </a>
 
 
