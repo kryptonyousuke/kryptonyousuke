@@ -12,13 +12,13 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 
 <div align="center">
   <a href="https://github.com/kryptonyousuke/AniHub">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=AniHub&theme=aura&show_owner=true" width="45%"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=AniHub&theme=midnight-purple&show_owner=true" width="45%"/>
   </a>
   <a href="https://github.com/kryptonyousuke/Aura">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Aura&theme=aura&show_owner=true" width="45%"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Aura&theme=midnight-purple&show_owner=true" width="45%"/>
   </a>
     <a href="https://github.com/kryptonyousuke/Triang3l">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Triang3l&theme=aura&show_owner=true" width="45%"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kryptonyousuke&repo=Triang3l&theme=midnight-purple&show_owner=true" width="45%"/>
   </a>
 </div>
 
@@ -42,8 +42,8 @@ I am a developer focused on low-level graphics and building fluid, high-performa
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=kryptonyousuke&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kryptonyousuke&layout=compact&theme=neon"/>
   <img height="180em" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=kryptonyousuke&theme=aura&margin-w=5&column=-1&no-bg=true&no-frame=true&rank=-B,-C,-?"/>
   
 </div>
