@@ -5,6 +5,7 @@
 
 ### 🛠️ Software Developer & Graphics Enthusiast
 I like to mess with GPU drivers and have some fun scripting tools to solve problems that I have in my daily life. I pass a lot of time reading docs and chatting with AI to figure out how everything work behind the scenes — especially about rendering, cryptography, compilers, compositors and protocols. I am self-taught since I was 9 and math is my secondary passion.
+
 ---
 
 ### 📜 Key Projects
